@@ -1,0 +1,22 @@
+{
+    "name": "theme-blizzard",
+    "displayName": "blizzard",
+    "description": "Blizzard Color Theme",
+    "version": "0.0.2",
+    "publisher": "Christopher Giroir <kelsin@valefor.com>",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blizzard",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blizzard.tmTheme"
+            }
+        ]
+    }
+}

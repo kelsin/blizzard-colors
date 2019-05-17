@@ -1,0 +1,18 @@
+{
+  "black": { "ansi":0, "xterm":233, "name":"black", "hex":"151515", "lore":"The Black Soulstone" },
+  "red": { "ansi":1, "xterm":124, "name":"red", "hex":"c21e1e", "lore":"For the Horde" },
+  "green": { "ansi":2, "xterm":70, "name":"green", "hex":"519b2e", "lore":"Ysera" },
+  "yellow": { "ansi":3, "xterm":172, "name":"yellow", "hex":"ea7b00", "lore":"Pepe" },
+  "blue": { "ansi":4, "xterm":31, "name":"blue", "hex":"007dbf", "lore":"For the Alliance" },
+  "magenta": { "ansi":5, "xterm":91, "name":"magenta", "hex":"862ea4", "lore":"Queen of Blades" },
+  "cyan": { "ansi":6, "xterm":37, "name":"cyan", "hex":"0fb2a5", "lore":"Symmetra" },
+  "white": { "ansi":7, "xterm":69, "name":"white", "hex":"686868", "lore":"Greymane" },
+  "brightBlack": { "ansi":8, "xterm":235, "name":"brightBlack", "hex":"2a2a2a", "lore":"Reaper" },
+  "brightRed": { "ansi":9, "xterm":196, "name":"brightRed", "hex":"ff2e2e", "lore":"Lord of Terror" },
+  "brightGreen": { "ansi":10, "xterm":113, "name":"brightGreen", "hex":"8cda38", "lore":"Legion" },
+  "brightYellow": { "ansi":11, "xterm":220, "name":"brightYellow", "hex":"ffc70e", "lore":"Overwatch" },
+  "brightBlue": { "ansi":12, "xterm":39, "name":"brightBlue", "hex":"00aeef", "lore":"Psi-Blade" },
+  "brightMagenta": { "ansi":13, "xterm":205, "name":"brightMagenta", "hex":"ee4bb5", "lore":"D.Va" },
+  "brightCyan": { "ansi":14, "xterm":86, "name":"brightCyan", "hex":"4bf3e6", "lore":"Tyrande" },
+  "brightWhite": { "ansi":15, "xterm":231, "name":"brightWhite", "hex":"f6f6f6", "lore":"Crusader" }
+}

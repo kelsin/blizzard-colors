@@ -1,0 +1,12 @@
+{
+  "name": "blizzard-colors",
+  "version": "0.0.1",
+  "description": "A Blizzard Themed 16 Color Ansi Palette",
+  "repository": "kelsin/blizzard-colors",
+  "author": "Christopher Giroir <kelsin@valefor.com>",
+  "contributors": ["Katherine Joplin (https://www.instagram.com/kj_heartless/)"],
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "handlebars": "^4.0.10"
+  }
+}
