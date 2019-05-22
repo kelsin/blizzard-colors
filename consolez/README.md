@@ -1,5 +1,9 @@
 # Blizzard Color Theme for ConsoleZ
 
+## Screenshot
+
+![Blizzard ConsoleZ Theme](https://github.com/kelsin/blizzard-colors/raw/master/consolez/consolez.png "Blizzard ConsoleZ Theme")
+
 ## To set the color theme...
 1. Go to Edit > Settings
 2. Select "Tabs"
