@@ -7,6 +7,6 @@
   "contributors": ["Katherine Joplin (https://www.instagram.com/kj_heartless/)"],
   "license": "BSD-2-Clause",
   "dependencies": {
-    "handlebars": "^4.0.10"
+    "handlebars": "^4.5.3"
   }
 }
