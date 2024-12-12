@@ -1,7 +1,8 @@
 VPATH = src
 
-all: emacs
+all: emacs alacritty
 
+alacritty: alacritty/blizzard-theme.toml
 emacs: emacs/blizzard-theme.el
 
 % :: %.hbs colors.json

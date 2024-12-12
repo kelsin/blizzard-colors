@@ -1,6 +1,8 @@
-Handlebars = require('handlebars');
-colors = require('./colors.json');
-fs = require('fs');
+Handlebars = require("handlebars");
+
+colors = require("./colors.json");
+fs = require("node:fs");
+path = require("node:path");
 
 const input = process.argv[2];
 const output = process.argv[3];
@@ -15,4 +17,5 @@ const template = Handlebars.compile(file);
 const render = template(colors);
 
 // Output it
+fs.mkdirSync(path.dirname(output), { recursive: true });
 fs.writeFileSync(output, render, { encoding: "utf8" });

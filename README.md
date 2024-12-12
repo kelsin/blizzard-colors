@@ -3,8 +3,8 @@
 A Blizzard Themed 16 Color Ansi Palette.
 
 Colors picked out by [Katherine
-Joplin](https://www.instagram.com/kj_heartless/). Themes created and maintained
-by Christopher Giroir.
+Joplin](https://www.linkedin.com/in/kjop/). Themes created and maintained by
+Christopher Giroir.
 
 ## Editor / Terminal Support
 
@@ -50,7 +50,7 @@ order to generate the files yourserve, check out this repo and then run:
 
 ```sh
 # Only needed once to install node dependencies:
-yarn
+pnpm install
 
 # Run to generate files from templates
 make
