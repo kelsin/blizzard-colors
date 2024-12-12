@@ -23,7 +23,7 @@ When possible it's always better to use the hex code, or set your ansi terminal
 colors and use those instead of using the 256 color approximations.
 
 | Ansi Number | XTerm 256 Number | Name | Hex | Lore |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | 0 | 233 | black | #151515 | The Black Soulstone |
 | 1 | 124 | red | #c21e1e | For the Horde |
 | 2 | 70 | green | #519b2e | Ysera |
