@@ -10,4 +10,6 @@ the `blizzard` theme. The lines from my main `init.el` emacs config file are:
 
 ## Screen Shot
 
-![Blizzard Emacs Theme](https://github.com/kelsin/blizzard-colors/raw/master/emacs/emacs.png "Blizzard Emacs Theme")
+![Blizzard Emacs
+Theme](https://github.com/kelsin/blizzard-colors/raw/master/emacs/emacs.png
+"Blizzard Emacs Theme")
